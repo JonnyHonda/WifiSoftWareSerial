@@ -1,0 +1,4 @@
+#define DEBUG true;
+
+#define SSSID "YOUR-WIFI-SSID-HERE";
+#define PASSWORD "YOUR-WIFI-PASSWORD-HERE";
